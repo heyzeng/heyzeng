@@ -1,7 +1,6 @@
 ### Hi there, I’m [HeyZeng](www.zengjunfeng.com.cn) 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on OPPO.
 - 🌱 I’m currently learning Distributed System and Streaming Processing.
