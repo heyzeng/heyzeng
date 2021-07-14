@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on OPPO.
 - 🌱 I’m currently learning Distributed System and Streaming Processing.
 - 👯 I’m looking to collaborate on BigData
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Scala
 - 💬 Ask me about what you want
 - 📫 How to reach me: wangzjf@gmail.com
 - 😄 Pronouns: HeyZeng
