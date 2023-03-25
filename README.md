@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on OPPO.
+- 🔭 I’m currently working on S.
 - 🌱 I’m currently learning Distributed System and Streaming Processing.
 - 👯 I’m looking to collaborate on BigData
 - 🤔 I’m looking for help with OLAP
