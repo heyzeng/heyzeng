@@ -1,8 +1,7 @@
 ### Hi there, I’m [HeyZeng](www.zengjunfeng.com.cn) 👋
 
 
-
-- 🔭 I’m currently working on S.
+- 🔭 I’m currently working on SANY.
 - 🌱 I’m currently learning Distributed System and Streaming Processing.
 - 👯 I’m looking to collaborate on BigData
 - 🤔 I’m looking for help with OLAP
