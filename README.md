@@ -8,7 +8,7 @@
 - 💬 Ask me about what you want
 - 📫 How to reach me: wangzjf@gmail.com
 - 😄 Pronouns: HeyZeng
-- ⚡ Fun fact: BigData Guitar Basktball
+- ⚡ Fun fact: Guitar Basktball
 
 
 <table width="700px">
